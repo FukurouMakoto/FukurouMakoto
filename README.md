@@ -3,9 +3,11 @@
 
 ![Owl Pic](https://i2.wp.com/ornithology.com/wp-content/uploads/2016/01/owl-eyes.jpg)
 
-> *You have power over your **mind** - not **outside events**.* 
-> *Realize this, and you will find **strength**.* 
+<div align="center">
+>*You have power over your **mind** - not **outside events**.* 
+>*Realize this, and you will find **strength**.*
 -<ins>Marcus Aurelius</ins>
+</div>
 
 <p align="center">I began my coding journey in the middle of the 2020 Corona Virus pandemic, taking advantage of my sudden lack of work to pursue my goals of becoming a software engineer and front-end web developer. 
 My goal is to be able to come out of the global situation with the skills necessary to make my career change and get into the programming field. </p>
