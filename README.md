@@ -31,25 +31,14 @@ My username is spelled 梟誠.
 誠 means Truth and Honesty.</p> 
 
 <p align="center">I chose this name because I wish to be as wise as the old owl, and because I want to approach everything I do and everyone I talk to with simple, straight honesty. Both are tenets I live my life by. </p>
-<p align="left">Languages & packages I am proficient with:</p>
-<p>
-1. Python
-2. Django
-3. BeautifulSoup
-4. Pandas
-</p>
-<p align="left">Languages I have experience with:</p>
-<p align="left">
-1.C++
-2.JavaScript
-</p>
 
+<p align="center">
 |Languages & modules I am proficient with | Languages I have experience with | 
 |:---:|:---:|
 | Python | C++ | 
 | Django | Javascript | 
 | BeautifulSoup | 
 | Pandas |  
-
+</p>
 <p align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukurouMakoto)](https://github.com/anuraghazra/github-readme-stats)
 </p>
