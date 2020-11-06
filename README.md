@@ -41,5 +41,13 @@ My username is spelled 梟誠.
 1.C++
 2.JavaScript
 </p>
+
+|Languages & modules I am proficient with | Languages I have experience with | 
+-------------------------------------------------------------
+| Python | C++ | 
+| Django | Javascript | 
+| BeautifulSoup | 
+| Pandas |  
+
 <p align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukurouMakoto)](https://github.com/anuraghazra/github-readme-stats)
 </p>
