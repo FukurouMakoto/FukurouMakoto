@@ -32,13 +32,13 @@ My username is spelled 梟誠.
 
 <p align="center">I chose this name because I wish to be as wise as the old owl, and because I want to approach everything I do and everyone I talk to with simple, straight honesty. Both are tenets I live my life by. </p>
 
-<p align="center">
+<div align="center">
 |Languages & modules I am proficient with | Languages I have experience with | 
 |:---:|:---:|
 | Python | C++ | 
 | Django | Javascript | 
 | BeautifulSoup | 
 | Pandas |  
-</p>
+</div>
 <p align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukurouMakoto)](https://github.com/anuraghazra/github-readme-stats)
 </p>
