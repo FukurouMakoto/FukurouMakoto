@@ -40,5 +40,9 @@ My username is spelled 梟誠.
 | BeautifulSoup | 
 | Pandas |  
 
-<p align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FukurouMakoto)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Fukurou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FukurouMakoto&show_icons=true&hide_border=true" />
+
+</details>
