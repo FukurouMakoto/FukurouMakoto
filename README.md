@@ -33,12 +33,26 @@ My username is spelled 梟誠.
 <p align="center">I chose this name because I wish to be as wise as the old owl, and because I want to approach everything I do and everyone I talk to with simple, straight honesty. Both are tenets I live my life by. </p>
 
 
-|Languages & modules I am proficient with | Languages I have experience with | 
+[//]: # (|Languages & modules I am proficient with | Languages I have experience with | 
 |:---:|:---:|
 | Python | C++ | 
 | Django | Javascript | 
 | BeautifulSoup | 
-| Pandas |  
+| Pandas |)  
+
+### My Languages & Tools
+
+[<img align="left" alt="vsc" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>]
+[<img align="left" alt="python" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]
+[<img align="left" alt="html5" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]
+[<img align="left" alt="css" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>]
+[<img align="left" alt="JavaScript" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]
+[<img align="left" alt="Django" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>]
+[<img align="left" alt="Pandas" height="32px" width="32px" src="https://dev.pandas.io/static/img/pandas.svg"/>]
+[<img align="left" alt="C++" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>]
+[<img align="left" alt="Godot" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"/>]
+
+<br>
 
 <details>
   <summary>:zap: Github Stats</summary>
