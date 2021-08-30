@@ -25,14 +25,6 @@ I'm especially open to helping anyone with anything I can, whether with coding f
 
 <p align="center">Feel free to shoot me a message with anything you might want to know! I do not have any form of social media as I strongly condemn the practice and platform.</p>
 
-<p align="center">Fun Fact: 
-My username is spelled 梟誠. 
-梟 means owl (hence the beautiful bird at the top).
-誠 means Truth and Honesty.</p> 
-
-<p align="center">I chose this name because I wish to be as wise as the old owl, and because I want to approach everything I do and everyone I talk to with simple, straight honesty. Both are tenets I live my life by. </p>
-
-
 [//]: # (|Languages & modules I am proficient with | Languages I have experience with | 
 |:---:|:---:|
 | Python | C++ | 
