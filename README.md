@@ -48,10 +48,3 @@ I'm especially open to helping anyone with anything I can, whether with coding f
 <br>
 <br>
 <br>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Fukurou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FukurouMakoto&show_icons=true" />
-
-</details>
