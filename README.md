@@ -8,15 +8,15 @@
 >*Realize this, and you will find **strength**.*
 >><ins>Marcus Aurelius</ins>
 
-<p align="center">I began my coding journey in the middle of the 2020 Corona Virus pandemic, taking advantage of my sudden lack of work to pursue my goals of becoming a software engineer and front-end web developer. 
-My goal is to be able to come out of the global situation with the skills necessary to make my career change and get into the programming field. </p>
+<p align="center">I began my coding journey in the middle of the 2020 Corona Virus pandemic, taking advantage of my sudden lack of work to pursue my goals of becoming a software engineer.
+I also developed a love for Linux, Systems Administration and my lifetime love for IT strengthened tenfold. </p>
 
 
-<p align="center">Currently working on improving my overall coding knowledge and wanting to take that next step to becoming an intermediate programmer.</p> 
+<p align="center">Currently working as a Field Technician w/Junior SysAdmin responsiblities while also working on my programming skills.</p> 
 
-<p align="center">Currently learning how to use Github for future projects, as well as learning some cyber security, web design & software engineering on the side.</p>
+<p align="center">Currently learning how to use Github for future projects, as well as learning some cyber security, devops & software engineering on the side.</p>
 
-<p align="center">Currently looking for any Open Source Projects I might be able to contribute to, especially those with regards to web design, cyber security, software engineering, really anything! I want to get my feet wet and get my code out there! </p>
+<p align="center">Currently looking for any Open Source Projects I might be able to contribute to, especially those with regards to cyber security, software engineering, really anything! I want to get my feet wet and get my code out there! </p>
  
 <p align="center">Currently looking for anyone who can offer mentorship or help me to reach that next level, especially with regard to using Github or moving to that intermediate stage in my coding journey.</p>
 
@@ -40,9 +40,7 @@ I'm especially open to helping anyone with anything I can, whether with coding f
 <img align="left" alt="css" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="JavaScript" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="Django" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
-<img align="left" alt="Pandas" height="32px" width="32px" src="https://dev.pandas.io/static/img/pandas.svg"/>
 <img align="left" alt="C++" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-<img align="left" alt="Godot" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"/>
 
 <br>
 <br>
