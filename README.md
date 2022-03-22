@@ -25,6 +25,9 @@ I'm especially open to helping anyone with anything I can, whether with coding f
 
 <p align="center">Feel free to shoot me a message with anything you might want to know! I do not have any form of social media as I strongly condemn the practice and platform.</p>
 
+<p align="center">Test</p>
+
+
 [//]: # (|Languages & modules I am proficient with | Languages I have experience with | 
 |:---:|:---:|
 | Python | C++ | 
