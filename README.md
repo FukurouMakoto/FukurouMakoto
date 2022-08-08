@@ -8,23 +8,20 @@
 >*Realize this, and you will find **strength**.*
 >><ins>Marcus Aurelius</ins>
 
-<p align="center">I began my coding journey in the middle of the 2020 Corona Virus pandemic, taking advantage of my sudden lack of work to pursue my goals of becoming a software engineer.
-I also developed a love for Linux, Systems Administration and my lifetime love for IT strengthened tenfold. </p>
+<p align="center">I started learning to program in the middle of the 2020 Corona Virus pandemic, taking advantage of my sudden lack of work to pursue my goals of becoming a software engineer.
+During this time, I also began to learn Linux, Systems Administration, Networking, Cyber-Security, and just about anything IT . </p>
 
 
-<p align="center">Currently working as a Field Technician w/Junior SysAdmin responsiblities while also working on my programming skills.</p> 
+<p align="center">Currently working as a Lvl.1 Field Technician w/Junior SysAdmin responsiblities while also working on my programming skills.</p> 
 
 <p align="center">Currently learning how to use Github for future projects, as well as learning some cyber security, devops & software engineering on the side.</p>
 
-<p align="center">Currently looking for any Open Source Projects I might be able to contribute to, especially those with regards to cyber security, software engineering, really anything! I want to get my feet wet and get my code out there! </p>
+<p align="center">Currently looking for any Open Source Projects I might be able to contribute to, especially those with regards to cyber security, software engineering, really anything. I want to get my feet wet and get my code out there. </p>
  
-<p align="center">Currently looking for anyone who can offer mentorship or help me to reach that next level, especially with regard to using Github or moving to that intermediate stage in my coding journey.</p>
+<p align="center">Currently looking for anyone who can offer mentorship or help me to reach that next level, especially with regard to using Github or taking my programming skills to the next level.</p>
 
 <p align="center">Feel free to talk to me about anything. 
-I'm especially open to helping anyone with anything I can, whether with coding frameworks I know or even life advice. </p>
-
-<p align="center">Feel free to shoot me a message with anything you might want to know! I do not have any form of social media as I strongly condemn the practice and platform.</p>
-
+I'm especially open to helping anyone with anything I can, whether with programming frameworks I know or even life advice. </p>
 
 
 [//]: # (|Languages & modules I am proficient with | Languages I have experience with | 
