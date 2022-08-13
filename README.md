@@ -8,7 +8,7 @@
 >*Realize this, and you will find **strength**.*
 >><ins>Marcus Aurelius</ins>
 
-<p align="center">I started learning to program in the middle of the 2020 Corona Virus pandemic, taking advantage of my sudden lack of work to pursue my goals of becoming a software engineer.
+<p align="center">I started learning to program in the middle of the 2020 Corona lockdowns, taking advantage of my sudden lack of work to pursue my goals of becoming a software engineer.
 During this time, I also began to learn Linux, Systems Administration, Networking, Cyber-Security, and just about anything IT . </p>
 
 
